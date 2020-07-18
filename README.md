@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Social Networks, Natural Language Processing and, Information Retrieval.
 - 📫 How to reach me: Feel free to ping me [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If you have reached reading till here, you may contact and find more! :)
+- ⚡ Fun fact: If you have reached reading till here, you may connect and find more! :)
 
