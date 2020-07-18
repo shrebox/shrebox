@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any topics of interest (checkout the about section [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!).
 - 🤔 I’m looking for help with (on thinking what to mention here) 🤔
 - 💬 Ask me about Social Networks, Natural Language Processing and, Information Retrieval.
-- 📫 How to reach me: shrebox@gmail.com
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/shreyash-arya-60254810a/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: If you have reached reading till here, you may contact and find more! :)
 
