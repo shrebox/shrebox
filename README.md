@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am recent Computer Science graduate from IIIT Delhi and currently working as a Researcher in TCS Research and Innovation Labs, New Delhi. For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
+I am recent Computer Science graduate from [IIIT-Delhi](https://iiitd.ac.in/) and currently working as a Researcher in [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 
 <!--
 **shrebox/shrebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
