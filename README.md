@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on spread and intervention of COVID-19 in Indian scenario.
 - 🌱 I’m currently learning Deep Learning and Reinforcement Learning.
 - 👯 I’m looking to collaborate on any topics of interest (checkout the about section [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!).
-- 🤔 I’m looking for help open research | PhD positions.
+- 🤔 I’m looking for open research | PhD positions.
 - 💬 Ask me about Social Networks, Natural Language Processing and, Information Retrieval.
 - 📫 How to reach me: Feel free to ping me [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 - 😄 Pronouns: he/him
