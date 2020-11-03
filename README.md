@@ -4,7 +4,7 @@ I am recent Computer Science graduate from [IIIT-Delhi](https://iiitd.ac.in/) an
 
 :bulb: Update: Check out my recent publication on "_Effect of lockdown interventions to control the COVID-19 epidemic in India_" [here](https://arxiv.org/abs/2009.03168).
 
-:octocat: It was a real successful [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) with 74 pull requests, 30 forks and 11 stars. Checkout this years's repository [here](https://github.com/shrebox/Hacktoberfest-2020). Happy Hacking! :) 
+:octocat: It was a real successful [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) with 74 pull requests, 30 forks and 11 stars; checkout this years's repository [here](https://github.com/shrebox/Hacktoberfest-2020). Happy Hacking! :) 
 
 <!--
 **shrebox/shrebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
