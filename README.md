@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-:octocat: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) is live! Feel free to commit to [this](https://github.com/shrebox/Hacktoberfest-2020) repository and get a free t-shirt or plant a tree :seedling:. Happy Hacking! :) 
-
 I am recent Computer Science graduate from [IIIT-Delhi](https://iiitd.ac.in/) and currently working as a Researcher at [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 
 :bulb: Update: Check out my recent publication on "_Effect of lockdown interventions to control the COVID-19 epidemic in India_" [here](https://arxiv.org/abs/2009.03168).
+
+:octocat: It was a real successful [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) with 74 pull requests, 30 forks and 11 stars. Checkout this years's repository [here](https://github.com/shrebox/Hacktoberfest-2020). Happy Hacking! :) 
 
 <!--
 **shrebox/shrebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
