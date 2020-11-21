@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shrebox)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrebox" alt="shrebox" /> </p>
 
