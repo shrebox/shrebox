@@ -2,7 +2,7 @@
 
 I am a recent Computer Science graduate from [IIIT-Delhi](https://iiitd.ac.in/) and currently working as a Researcher at [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 
-:bulb: Updates
+:bulb: Updates:
 
 - Latest work on "_Identifying Behavioral Correlates and Pathways for Elderly Wellbeing During the Pandemic_", **Shreyash Arya**, Arnab Chatterjee and Mayuri Duggirala, under review.
 - Accepted paper: "_Revealing the Blackmarket Retweet Game: A Hybrid Approach_", **Shreyash Arya** and Hridoy Sankar Dutta. [CONSTRAINT Workshop @ AAAI, 2021](https://aaai.org/Conferences/AAAI-21/ws21workshops/#ws05).
