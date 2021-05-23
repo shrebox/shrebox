@@ -16,7 +16,7 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on spread of unhealthy mental health behaviour spread.
+- 🔭 I’m currently working on adversarial deep learning in privacy domain.
 - 🌱 I’m currently learning Deep Learning and Reinforcement Learning.
 - 👯 I’m looking to collaborate on any topics of interest (checkout the about section [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!).
 - 🤔 I’m looking for open research | PhD positions.
