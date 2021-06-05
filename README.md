@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for open research | PhD positions.
 - 💬 Ask me about Social Networks, Natural Language Processing and, Information Retrieval.
 - 📫 How to reach me: Feel free to ping me [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: If you have reached reading till here, you may connect and find more! :)
-- :alien: My other social profiles: [LinkedIn](https://in.linkedin.com/in/shreyash-arya-60254810a) | [Twitter](https://twitter.com/shrebox) | [ResearchGate](https://www.researchgate.net/profile/Shreyash_Arya/research) | [Google Scholar](https://scholar.google.com/citations?user=AmWtEfEAAAAJ&hl=en&authuser=1&oi=ao)
+- :alien: My other social profiles: [LinkedIn](https://in.linkedin.com/in/shreyash-arya-60254810a) | [Twitter](https://twitter.com/shrebox) | [ResearchGate](https://www.researchgate.net/profile/Shreyash_Arya/research) | [Google Scholar](https://scholar.google.com/citations?user=AmWtEfEAAAAJ&hl=en&authuser=1&oi=ao).
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=shrebox) -->
 
