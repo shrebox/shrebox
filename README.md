@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[FREE T-SHIRT / PLANT A TREE] [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/) is live now! Feel free to issue pull requests [here](https://github.com/shrebox/Hacktoberfest-2021). Happy hacking! :)
+[FREE T-SHIRT / PLANT A TREE] [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/) is live now! Feel free to issue pull requests [here](https://github.com/shrebox/Hacktoberfest-2021). Happy hacking! :-)
 - 
 I am currently a Computer Science Graduate Student at [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/), Saarbrücken, Germany. Before joining, I worked as a Researcher at [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 
