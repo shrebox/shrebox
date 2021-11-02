@@ -4,6 +4,7 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 :bulb: Updates:
 
+- :octocat: Yet another successful [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/); checkout this years's repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
 - Accepted full paper: "_Identifying Behavioral Correlates and Pathways for Elderly Wellbeing During the Pandemic_", **Shreyash Arya**, Arnab Chatterjee and Mayuri Duggirala. [British Academy of Management, 2021](https://www.bam.ac.uk/events-landing/conference.html).
 - [[Link]](https://link.springer.com/chapter/10.1007%2F978-3-030-73696-5_4) Accepted paper: "_Revealing the Blackmarket Retweet Game: A Hybrid Approach_", **Shreyash Arya** and Hridoy Sankar Dutta. [CONSTRAINT Workshop @ AAAI, 2021](https://aaai.org/Conferences/AAAI-21/ws21workshops/#ws05).
 - Check out my recent publication on "_Effect of lockdown interventions to control the COVID-19 epidemic in India_", Ankit Sharma, **Shreyash Arya**, Shashee Kumari and Arnab Chatterjee, [here](https://arxiv.org/abs/2009.03168).
