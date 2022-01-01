@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-I am currently a Computer Science Graduate Student at [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/), Saarbrücken, Germany and working as a Research Assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/). Before joining, I worked as a Researcher at [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
+I am currently a Computer Science Graduate Student at [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/) and working as a Research Assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in Saarbrücken, Germany. Before joining, I worked as a Researcher at [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 
 :bulb: Updates:
 
