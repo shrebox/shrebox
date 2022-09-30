@@ -5,7 +5,6 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 :bulb: Updates:
 
 - :octocat: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) is back! Register and pull requests to repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
-- [[Link]]
 - Joined as a research assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in the Cognitive Assistants group. I'm working on the [MePheSTO](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/mephesto) project in collaboration with [Inria, France](https://www.inria.fr/fr/mephesto-lia-au-service-de-la-detection-des-troubles-psychiatriques).
 - :octocat: Yet another successful [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/); checkout this years's repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
 - [[Link]](https://www.researchgate.net/publication/359962561_Identifying_Behavioral_Correlates_and_Pathways_for_Elderly_Wellbeing_During_the_Pandemic) Accepted full paper: "_Identifying Behavioral Correlates and Pathways for Elderly Wellbeing During the Pandemic_", **Shreyash Arya**, Arnab Chatterjee and Mayuri Duggirala. [British Academy of Management, 2021](https://www.bam.ac.uk/events-landing/conference.html).
