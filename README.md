@@ -4,6 +4,7 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 :bulb: Updates:
 
+- Checkout my first attempt to generate new pokemons using Deep Generative Diffusion Models [here](https://github.com/shrebox/pokemon_diffusion).
 - Joined as a research assistant at [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) in the [Computer Vision and Machine Learning group (D2)](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning). 
 - :octocat: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) is back! Register and pull requests to repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
 - Joined as a research assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in the Cognitive Assistants group. I'm working on the [MePheSTO](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/mephesto) project in collaboration with [Inria, France](https://www.inria.fr/fr/mephesto-lia-au-service-de-la-detection-des-troubles-psychiatriques).
