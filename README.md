@@ -21,7 +21,7 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the detection of psychiatric disorders using machine/deep learning.
+- 🔭 I’m currently working on Explainable Machine Learning (XAI).
 - 🌱 I’m currently learning Deep Learning for Computer Vision.
 - 👯 I’m looking to collaborate on any topics of interest (checkout the about section [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!).
 - 🤔 I’m looking for open research | PhD positions.
