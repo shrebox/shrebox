@@ -4,6 +4,8 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 :bulb: Updates:
 
+- Attending [International Conference
+on Computer Vision (ICCV23)](https://iccv2023.thecvf.com/) in Paris as a student volunteer; hit me up if you're also there! :)
 - Checkout my first attempt to generate new pokemons using Deep Generative Diffusion Models [here](https://github.com/shrebox/pokemon_diffusion).
 - Joined as a research assistant at [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) in the [Computer Vision and Machine Learning group (D2)](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning). 
 - :octocat: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) is back! Register and pull requests to repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
