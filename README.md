@@ -7,9 +7,9 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 - [[Link]](https://nips.cc/virtual/2024/poster/95051) Accepted full paper: "_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_", **Shreyash Arya**, Sukrut Rao, Moritz Böhle and Bernt Schiele. [Neural Information Processing Systems, 2024 (NeurIPS 2024)](https://nips.cc/).
 - Attending [International Conference
 on Computer Vision, 2023 (ICCV23)](https://iccv2023.thecvf.com/) in Paris as a student volunteer; hit me up if you're also there! :)
-- Checkout my first attempt to generate new pokemons using Deep Generative Diffusion Models [here](https://github.com/shrebox/pokemon_diffusion).
+- Check out my first attempt to generate new Pokemons using Deep Generative Diffusion Models [here](https://github.com/shrebox/pokemon_diffusion).
 - Joined as a research assistant at [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) in the [Computer Vision and Machine Learning group (D2)](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning). 
-- :octocat: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) is back! Register and pull requests to repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
+- :octocat: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) is back! Register and pull requests to the repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
 - Joined as a research assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in the Cognitive Assistants group. I'm working on the [MePheSTO](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/mephesto) project in collaboration with [Inria, France](https://www.inria.fr/fr/mephesto-lia-au-service-de-la-detection-des-troubles-psychiatriques).
 - :octocat: Yet another successful [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/); checkout this years's repository [here](https://github.com/shrebox/Hacktoberfest2021). Happy Hacking! :) 
 - [[Link]](https://www.researchgate.net/publication/359962561_Identifying_Behavioral_Correlates_and_Pathways_for_Elderly_Wellbeing_During_the_Pandemic) Accepted full paper: "_Identifying Behavioral Correlates and Pathways for Elderly Wellbeing During the Pandemic_", **Shreyash Arya**, Arnab Chatterjee and Mayuri Duggirala. [British Academy of Management, 2021](https://www.bam.ac.uk/events-landing/conference.html).
@@ -24,11 +24,11 @@ on Computer Vision, 2023 (ICCV23)](https://iccv2023.thecvf.com/) in Paris as a s
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Explainable Machine Learning (XAI).
-- 🌱 I’m currently learning Deep Learning for Computer Vision.
+- 🔭 I’m currently working on Explainable Machine Learning (xAI).
+- 🌱 I’m currently learning Interpretability in Computer Vision.
 - 👯 I’m looking to collaborate on any topics of interest (checkout the about section [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!).
 - 🤔 I’m looking for open research | PhD positions.
-- 💬 Ask me about Machine Learning and Natural Language Processing.
+- 💬 Ask me about Computer Vision and Machine Learning.
 - 📫 How to reach me: Feel free to ping me [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: If you have reached reading till here, you may connect and find more! :)
