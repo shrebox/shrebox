@@ -4,7 +4,7 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 :bulb: Updates:
 
-- [[Link]](https://nips.cc/virtual/2024/poster/95051) Accepted full paper: "_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_", **Shreyash Arya**, Sukrut Rao, Moritz Böhle and Bernt Schiele. [Neural Information Processing Systems, 2024 (NeurIPS 2024)](https://nips.cc/).
+- [[Link]](https://nips.cc/virtual/2024/poster/95051) Accepted full paper: "_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_", **Shreyash Arya***, Sukrut Rao*, Moritz Böhle* and Bernt Schiele. [Neural Information Processing Systems, 2024 (NeurIPS 2024)](https://nips.cc/).
 - Attending [International Conference
 on Computer Vision, 2023 (ICCV23)](https://iccv2023.thecvf.com/) in Paris as a student volunteer; hit me up if you're also there! :)
 - Check out my first attempt to generate new Pokemons using Deep Generative Diffusion Models [here](https://github.com/shrebox/pokemon_diffusion).
