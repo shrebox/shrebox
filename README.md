@@ -1,6 +1,10 @@
 ### Hi there 👋
  
-I am currently a Computer Science Graduate Student at [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/) and working as a Research Assistant at [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) in Saarbrücken, Germany. Before joining, I worked as a Research Assistant at [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in Saarbrücken, Germany and as a Researcher at [TCS Research and Innovation Labs, New Delhi](https://www.tcs.com/tcs-research). For more details about my work and projects, check out my [profile](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
+I'm an AI Research Engineer at [CISPA](https://cispa.de/en)'s startup [Detesia](https://www.linkedin.com/company/detesia/posts/?feedView=all) and a Research Collaborator at the [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/), where I focus on Machine Learning Explainability. Currently based in Saarbrücken, Germany, I recently completed my Master's in Computer Science at the [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
+
+My professional journey includes experience as a Research Assistant at the [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) and the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in Saarbrücken, as well as a role as Researcher at [TCS Research and Innovation Labs](https://www.tcs.com/tcs-research) in New Delhi.
+
+For more about my work and projects, feel free to explore my [LinkedIn profile](https://www.linkedin.com/in/shrebox/). Let's connect!
 
 :bulb: Updates:
 
