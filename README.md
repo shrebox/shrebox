@@ -4,6 +4,7 @@ I am currently a Computer Science Graduate Student at [Saarland Informatics Camp
 
 :bulb: Updates:
 
+- Joined as an AI Research Engineer at [CISPA](https://cispa.de/en)'s startup [Detesia](https://www.linkedin.com/company/detesia/posts/?feedView=all) specializing in Machine Learning Explainability for Deep Fake Detection.
 - [[Link]](https://nips.cc/virtual/2024/poster/95051) Accepted full paper: "_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_", **Shreyash Arya***, Sukrut Rao*, Moritz Böhle* and Bernt Schiele. [Neural Information Processing Systems, 2024 (NeurIPS 2024)](https://nips.cc/).
 - Attending [International Conference
 on Computer Vision, 2023 (ICCV23)](https://iccv2023.thecvf.com/) in Paris as a student volunteer; hit me up if you're also there! :)
