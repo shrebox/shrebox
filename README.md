@@ -8,6 +8,8 @@ For more about my work and projects, feel free to explore my [LinkedIn profile](
 
 :bulb: Updates:
 
+- Our recent work "[_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_](https://sukrutrao.github.io/publication/b-cosification-transforming-deep-neural-networks-to-be-inherently-interpretable/)" featured by [neptune.ai](https://www.linkedin.com/feed/update/urn:li:activity:7265412032504479744/). Also, check out the full video interview on [YouTube](https://youtu.be/zSEv3KBGlJQ).
+- Invited to give a talk at [Cohere for AI](https://cohere.com/events/cohere-for-ai-shreyash-arya) on our recent NeurIPS 2024 publication: "[_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_](https://sukrutrao.github.io/publication/b-cosification-transforming-deep-neural-networks-to-be-inherently-interpretable/)".
 - Joined as an AI Research Engineer at [CISPA](https://cispa.de/en)'s startup [Detesia](https://www.linkedin.com/company/detesia/posts/?feedView=all) specializing in Machine Learning Explainability for Deep Fake Detection.
 - [[Link]](https://nips.cc/virtual/2024/poster/95051) Accepted full paper: "_B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable_", **Shreyash Arya***, Sukrut Rao*, Moritz Böhle* and Bernt Schiele. [Neural Information Processing Systems, 2024 (NeurIPS 2024)](https://nips.cc/).
 - Attending [International Conference
