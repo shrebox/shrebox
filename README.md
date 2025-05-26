@@ -32,7 +32,7 @@ on Computer Vision, 2023 (ICCV23)](https://iccv2023.thecvf.com/) in Paris as a s
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Explainable Machine Learning (xAI).
+- 🔭 I’m currently working on Explainable Machine Learning (xAI) and Deepfake Detection.
 - 🌱 I’m currently learning Interpretability in Computer Vision.
 - 👯 I’m looking to collaborate on any topics of interest (checkout the about section [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!).
 - 🤔 I’m looking for open research | PhD positions.
