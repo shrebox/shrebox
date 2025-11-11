@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Feel free to ping me [here](https://www.linkedin.com/in/shreyash-arya-60254810a/)!
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: If you have reached reading till here, you may connect and find more! :)
-- :alien: My other social profiles: [LinkedIn](https://in.linkedin.com/in/shreyash-arya-60254810a) | [Twitter](https://twitter.com/shrebox) | [ResearchGate](https://www.researchgate.net/profile/Shreyash_Arya/) | [Google Scholar](https://scholar.google.com/citations?user=AmWtEfEAAAAJ&hl=en&authuser=1&oi=ao).
+- :alien: My other social profiles: [LinkedIn](https://in.linkedin.com/in/shreyash-arya-60254810a) | [X](https://twitter.com/shrebox) | [Bluesky](https://bsky.app/profile/shrebox.bsky.social) | [ResearchGate](https://www.researchgate.net/profile/Shreyash_Arya/) | [Google Scholar](https://scholar.google.com/citations?user=AmWtEfEAAAAJ&hl=en&authuser=1&oi=ao).
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=shrebox) -->
 
