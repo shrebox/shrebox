@@ -1,8 +1,8 @@
 ### Hi there 👋
  
-I'm an AI Research Engineer at [CISPA](https://cispa.de/en)'s startup [Detesia](https://www.linkedin.com/company/detesia/posts/?feedView=all) and a Research Collaborator at the [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya-inactive/), where I focus on Machine Learning Explainability. Currently based in Saarbrücken, Germany, I recently completed my Master's in Computer Science at the [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
+I'm an AI Research Engineer at [Detesia GmbH](https://www.linkedin.com/company/detesia/posts/?feedView=all) and a Research Collaborator at the [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya-inactive/), where I focus on Machine Learning Explainability. Currently based in Saarbrücken, Germany, I recently completed my Master's in Computer Science at the [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/).
 
-My professional journey includes experience as a Research Assistant at the [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) and the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in Saarbrücken, as well as a role as Researcher at [TCS Research and Innovation Labs](https://www.tcs.com/tcs-research) in New Delhi.
+My professional journey includes experience as an AI Research Engineer at [CISPA](https://cispa.de/en)'s startup [Detesia](https://www.linkedin.com/company/detesia/posts/?feedView=all), Research Assistant at the [Max Planck Institute for Informatics (MPI-INF)](https://people.mpi-inf.mpg.de/~sarya/) and the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/) in Saarbrücken, as well as a role as Researcher at [TCS Research and Innovation Labs](https://www.tcs.com/tcs-research) in New Delhi.
 
 For more about my work and projects, feel free to explore my [LinkedIn profile](https://www.linkedin.com/in/shrebox/). Let's connect!
 
